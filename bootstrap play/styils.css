@@ -1,0 +1,22 @@
+.custom-nav {
+
+  background: #123456;
+
+}
+
+.custom-nav .navbar-brand {
+  color: white;
+}
+
+
+.custom-nav .nav-link {
+
+  color: rgb(255, 0, 0);
+
+}
+
+.custom-nav .nav-link:hover {
+
+  color: rgb(0, 84, 0);
+
+}
